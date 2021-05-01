@@ -1,0 +1,51 @@
+img{
+  
+  border-radius:50%;
+  width:150px;
+    
+}
+body{
+  Text-align:center;
+
+}
+#Main{
+    background: linear-gradient(#263238 0%,#DD2C00 100%);
+}
+#body{
+  background-color:orange;
+}
+.menu{
+  list-style: none;
+  font-family: cursive;
+  float:right;
+      top: 10px;
+    right: 30px;
+  cusor:pointer;
+  color:black;
+}
+.link{
+    float:left;
+    color: white;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 20px;
+    cursor:pointer;
+}
+
+#hobby_name{
+    font-family: 'Orelega One', cursive;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+    
+}
+
+html{
+ scroll-behavior: smooth;
+    
+}
